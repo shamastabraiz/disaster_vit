@@ -12,7 +12,7 @@ This repository contains the complete implementation of **DisasterViT**, a light
 
 **Title**: *DisasterViT: A Lightweight Vision Transformer for Disaster Classification*  
 **Author**: Shamas Tabraiz 
-**Published**: 2025  
+**Published**: 2024  
 **DOI**:[10.1109/ICCWAMTIP64812.2024.10873725](https://doi.org/10.1109/ICCWAMTIP64812.2024.10873725)
 
 ---
