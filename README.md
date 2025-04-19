@@ -36,6 +36,7 @@ We used a **custom disaster image dataset**, referred to as the **DisasterViT Da
 - 🔥 Wildfire
   
 The dataset can be downloaded by using Google Drive: https://drive.google.com/file/d/1PdzUEOUqGSPtfuHS8LsC9GNvej4ReW9S/view?usp=sharing
+Password: disastervit
 
 ---
 ## 📜 Citation
